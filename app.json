@@ -1,0 +1,28 @@
+{
+  "id": "c14ffd1b-4ff4-46f4-bdbc-2a7cec174f7d",
+  "name": "WebShopProject2",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "k",
+  "description": "k",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
